@@ -1,6 +1,6 @@
 cask "kshan" do
-  version "1.0.0"
-  sha256 "93fe70291bd7bfdbf44291bd8dec9b9d72aaa1b98a13f54825c543ad6f8aa0c0"
+  version "1.1.1"
+  sha256 "bd046605166c82db544af2395bd7a86a5bc98694166b404c17c4197a29843774"
 
   url "https://storage.googleapis.com/kshan-downloads/releases/#{version}/macos/Kshan-#{version}.dmg"
   name "Kshan"
